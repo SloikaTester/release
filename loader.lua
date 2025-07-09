@@ -1,6 +1,6 @@
 -- Инжектор для Da Hood Combat Bot
 getgenv().BotConfig = {
-    MainOwner = "Beeya_2554", -- Ваш основной ник
+    MainOwner = "kcadamsqier", -- Ваш основной ник
     Prefix = ".", -- Префикс команд
     AutoInject = true -- Авто-инжект при входе в игру
 }
